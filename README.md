@@ -77,8 +77,7 @@ Desenvolvimento de uma aplicação integrada a uma API externa para coleta e pro
     "totalResults": 33
   }
   ```
-
-  ## Arquitetura da solução
+## Arquitetura da solução
 
 O projeto segue a arquitetura em camadas do Spring, separando responsabilidades em camadas distintas: Controller, Service, Config, Client e DTO. Cada camada possui funções específicas, garantindo clareza, manutenibilidade e facilidade de escalabilidade, além de promover separação de preocupações e reuso de código.
 
