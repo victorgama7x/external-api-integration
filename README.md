@@ -9,7 +9,7 @@ Desenvolvimento de uma aplicação integrada a uma API externa para coleta e pro
 -**_Linguagem:_** Java 21.
 
 - **_Frameworks e Dependências_**
-  - **_Backend:_** Spring Boot 3.5.11, Spring DevTools e Spring WebFlux.
+  - **_Backend:_** Spring Boot 3.5.11, Spring Web, Spring DevTools e Spring WebFlux.
 
 ## Pré-requisitos
 
