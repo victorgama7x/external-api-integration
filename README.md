@@ -23,7 +23,7 @@ Desenvolvimento de uma aplicação integrada a uma API externa para coleta e pro
 2. clone o projeto e acesse a pasta:
 
    ```bash
-   git clone https://github.com/external-api-integration/
+   git clone https://github.com/victorgama7x/external-api-integration/
    cd external-api-integration
    ```
 
